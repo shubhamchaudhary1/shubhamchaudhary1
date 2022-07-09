@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="200" height="200" border-radius="50%" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align="right" alt="coding" width="200" height="200" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" border-radius="50%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamchaudhary1&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamchaudhary1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
